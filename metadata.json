@@ -1,0 +1,8 @@
+{
+  "name": "Solstice Design",
+  "description": "A premium architecture and interior design studio specializing in luxury residential and commercial spaces. Experience the play of light and shadow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
