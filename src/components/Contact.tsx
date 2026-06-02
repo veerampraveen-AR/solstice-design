@@ -108,7 +108,7 @@ export default function Contact() {
           <div className="space-y-6 pt-10">
             {/* Email - Link Active */}
             <a 
-              href="mailto:praveen@solsticedesign.in" 
+              href="mailto:bdm@solsticedesign.co.in" 
               className="flex items-center gap-6 group cursor-pointer"
             >
               <div className="w-12 h-12 rounded-full border border-brand-divider-light flex items-center justify-center group-hover:bg-brand-charcoal group-hover:text-brand-cream transition-all">
@@ -116,7 +116,7 @@ export default function Contact() {
               </div>
               <div>
                 <p className="text-[10px] uppercase tracking-widest text-brand-text/40">Inquire</p>
-                <p className="text-lg font-medium text-brand-heading group-hover:text-brand-taupe transition-colors">praveen@solsticedesign.in</p>
+                <p className="text-lg font-medium text-brand-heading group-hover:text-brand-taupe transition-colors">bdm@solsticedesign.co.in</p>
               </div>
             </a>
 
